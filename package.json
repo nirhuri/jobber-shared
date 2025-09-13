@@ -22,7 +22,7 @@
   "author": "Nir Huri",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/nirhuri/jobber-shared.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
